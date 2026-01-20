@@ -1,51 +1,32 @@
-# 🧠 ArtDocAI – Intelligent Document Suite
+# ArtDocAI
 
-An AI-powered intelligent document analysis and generation suite built with **React (TypeScript)** and **Vite**, integrated with **Google Gemini API** for advanced AI processing.
+## Project Overview
+ArtDocAI is an AI-powered document analysis and generation application built with React (TypeScript) and Vite.  
+It helps users analyze documents, generate summaries, and extract key information automatically.
 
----
+## Features
+- Upload and analyze documents
+- Automatic summary generation
+- Highlighting of important sections
+- User-friendly interface with responsive design
 
-## 🚀 Overview
+## My Contributions
+- Assisted in frontend development and testing
+- Implemented UI components for document upload
+- Helped in debugging and optimizing app performance
+- Added README and project documentation
 
-ArtDocAI is designed to:
+## Technologies Used
+- React (TypeScript)
+- Vite
+- TailwindCSS
+- AI libraries / APIs (as used in the project)
 
-* Upload and process various documents (PDF, text, etc.)
-* Use **Google Gemini AI** for intelligent text generation, summarization, and extraction
-* Provide a modern, clean UI for document interaction
-* Allow seamless API-based document intelligence for developers
-
----
-
-## 🧩 Tech Stack
-
-* ⚛️ **React + TypeScript**
-* ⚡ **Vite** (for fast dev builds)
-* 🎨 **Tailwind CSS** (UI styling)
-* 🔐 **Google Gemini API** (AI backend)
-* 📦 **Node.js + npm** (dependency management)
-
-### 1. Install Dependencies
-
+## How to Run
+1. Clone the repository
 ```bash
-npm install
-```
-
-## ▶️ Running the Project
-
-```bash
-npm run dev
-```
-
-Visit → [http://localhost:5173](http://localhost:5173)
-
-## 🪄 Features
-
-✅ File upload and document parsing
-✅ AI-powered text generation and summarization
-✅ Responsive UI with reusable components
-✅ Easy integration with Gemini API
+git clone https://github.com/gayatri-cpu/artdocai.git
 
 
-## 🎥 Demo Video
-Watch the demo below:
 
 https://github.com/AARTI756/artdocai/blob/main/artdocai.mp4
